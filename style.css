@@ -1,3 +1,7 @@
+* {
+    font-family: 'Lilita One', cursive;
+}
+
 .ncr {
     padding-bottom: 72px;
 }
@@ -17,7 +21,7 @@
 
 .selfie {
     width: 300px;
-    border-radius: 100%;
+    border-radius: 50%;
 }
 
 .selfie-title{
@@ -40,5 +44,33 @@
 .margin {
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.nss {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.nss-cohort,
+.email-btn {
+    margin-left: 100px;
+}
+.nss-cohort p {
+    margin-left: 15px;
+}
+
+.group1 {
+    padding-top: 50px;
+}
+
+.hi {
+    font-family: 'Niconne', cursive;
+    font-size: 4rem;
+}
+
+.army {
+    width: 250px;
+    height: 300px;
+    margin-left: 45px;
 }
 
